@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Manuscript | Sayed Hassen Page</title>
+    <link>http://localhost:1313/remote/publication_types/manuscript/</link>
+      <atom:link href="http://localhost:1313/remote/publication_types/manuscript/index.xml" rel="self" type="application/rss+xml" />
+    <description>Manuscript</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/remote/media/icon_hu7729264130191091259.png</url>
+      <title>Manuscript</title>
+      <link>http://localhost:1313/remote/publication_types/manuscript/</link>
+    </image>
+    
+    <item>
+      <title>An analysis of COVID-19 and its spread in relation to population density</title>
+      <link>http://localhost:1313/remote/publication/sayed-hassen-21-b/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/remote/publication/sayed-hassen-21-b/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>COVID-19 and its spread in relation to ambient temperature</title>
+      <link>http://localhost:1313/remote/publication/sayed-hassen-21-a/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/remote/publication/sayed-hassen-21-a/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A time-varying Kalman filter approach to frequency locking of an optical cavity</title>
+      <link>http://localhost:1313/remote/publication/sayed-hassen-10-c/</link>
+      <pubDate>Mon, 01 Nov 2010 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/remote/publication/sayed-hassen-10-c/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Frequency Locking of a Fabry-Perot cavity using LQG integral Control</title>
+      <link>http://localhost:1313/remote/publication/sayed-hassen-08-b/</link>
+      <pubDate>Sun, 01 Jun 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/remote/publication/sayed-hassen-08-b/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Application of Integral LQG control to the frequency locking of an Optical Laser cavity</title>
+      <link>http://localhost:1313/remote/publication/sayed-hassen-08-a/</link>
+      <pubDate>Tue, 01 Apr 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/remote/publication/sayed-hassen-08-a/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Laser-Cavity Frequency Locking using Integral LQG Control</title>
+      <link>http://localhost:1313/remote/publication/sayed-hassen-07/</link>
+      <pubDate>Sat, 01 Dec 2007 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/remote/publication/sayed-hassen-07/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HVAC | Sayed Hassen Page</title>
+    <link>http://localhost:1313/remote/tags/hvac/</link>
+      <atom:link href="http://localhost:1313/remote/tags/hvac/index.xml" rel="self" type="application/rss+xml" />
+    <description>HVAC</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/remote/media/icon_hu7729264130191091259.png</url>
+      <title>HVAC</title>
+      <link>http://localhost:1313/remote/tags/hvac/</link>
+    </image>
+    
+    <item>
+      <title>Development of control-oriented models for a building under regular heating, ventilation and air-conditioning operation -- A comparative simulation study and an experimental validation</title>
+      <link>http://localhost:1313/remote/publication/sayed-hassen-23-a/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/remote/publication/sayed-hassen-23-a/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

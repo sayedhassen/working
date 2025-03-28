@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Systems and Control | Sayed Hassen Page</title>
+    <link>http://localhost:1313/remote/tags/systems-and-control/</link>
+      <atom:link href="http://localhost:1313/remote/tags/systems-and-control/index.xml" rel="self" type="application/rss+xml" />
+    <description>Systems and Control</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 30 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/remote/media/icon_hu7729264130191091259.png</url>
+      <title>Systems and Control</title>
+      <link>http://localhost:1313/remote/tags/systems-and-control/</link>
+    </image>
+    
+    <item>
+      <title>Control Systems Engineering</title>
+      <link>http://localhost:1313/remote/teaching/control/</link>
+      <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/remote/teaching/control/</guid>
+      <description>&lt;hr&gt;
+&lt;h3 id=&#34;optimisation-problem&#34;&gt;Optimisation Problem&lt;/h3&gt;
+
+$$
+    \min_{u_0, u_1, \cdots, u_{N-1}} J(x_0,...,x_{N+1},u_0, ... ,u_N) \nonumber \\
+    \mathrm{subject\;to} \; \quad x_0 = x_i, \ x_N \in \mathbb{X}, \nonumber \\
+    x_{k+1} = A_k x_k + B_k u_k, \\
+    x_k \in \mathbb{X}, \ u_k \in \mathbb{U}, \nonumber \\
+    \text{for all } k \in \{0,\, ...\, ,N-1\} \nonumber $$
+
+
+&lt;hr&gt;
+&lt;h3 id=&#34;references&#34;&gt;References&lt;/h3&gt;
+&lt;p&gt;&amp;#x1f4d6; &lt;a href=&#34;https://fbswiki.org/wiki/index.php/Feedback_Systems:_An_Introduction_for_Scientists_and_Engineers&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Feedback Systems: An Introduction for Scientists and Engineers&lt;/a&gt;
+by &lt;em&gt;Karl J. Astrom&lt;/em&gt; and &lt;em&gt;Richard M. Murray&lt;/em&gt; which is &lt;strong&gt;freely&lt;/strong&gt; available.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

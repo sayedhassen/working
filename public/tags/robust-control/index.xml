@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Robust Control | Sayed Hassen Page</title>
+    <link>http://localhost:1313/remote/tags/robust-control/</link>
+      <atom:link href="http://localhost:1313/remote/tags/robust-control/index.xml" rel="self" type="application/rss+xml" />
+    <description>Robust Control</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Apr 2001 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/remote/media/icon_hu7729264130191091259.png</url>
+      <title>Robust Control</title>
+      <link>http://localhost:1313/remote/tags/robust-control/</link>
+    </image>
+    
+    <item>
+      <title>Robust and gain-scheduled control using Linear Matrix Inequalities</title>
+      <link>http://localhost:1313/remote/publication/sayed-hassen-01/</link>
+      <pubDate>Sun, 01 Apr 2001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/remote/publication/sayed-hassen-01/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quantum Control | Sayed Hassen Page</title>
+    <link>http://localhost:1313/remote/tags/quantum-control/</link>
+      <atom:link href="http://localhost:1313/remote/tags/quantum-control/index.xml" rel="self" type="application/rss+xml" />
+    <description>Quantum Control</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/remote/media/icon_hu7729264130191091259.png</url>
+      <title>Quantum Control</title>
+      <link>http://localhost:1313/remote/tags/quantum-control/</link>
+    </image>
+    
+    <item>
+      <title>Experimental demonstration of frequency autolocking an optical cavity using a time-varying Kalman filter</title>
+      <link>http://localhost:1313/remote/publication/sayed-hassen-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/remote/publication/sayed-hassen-16/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Design and implementation of an optical cavity locking controller test bed system</title>
+      <link>http://localhost:1313/remote/publication/kallapur-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/remote/publication/kallapur-15/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Modelling, analysis and simulation of an optical squeezer</title>
+      <link>http://localhost:1313/remote/publication/sayed-hassen-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/remote/publication/sayed-hassen-15/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Extremum seeking control of an optical cavity</title>
+      <link>http://localhost:1313/remote/publication/sayed-hassen-14/</link>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/remote/publication/sayed-hassen-14/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Frequency locking of an optical cavity using a time-varying Kalman filtering approach</title>
+      <link>http://localhost:1313/remote/publication/sayed-hassen-13-a/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/remote/publication/sayed-hassen-13-a/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Digital Locking of a Three-Mirror Ring Cavity</title>
+      <link>http://localhost:1313/remote/publication/kallapur-12/</link>
+      <pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/remote/publication/kallapur-12/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Optimal Squeezing using Multivariable Integral LQG Control</title>
+      <link>http://localhost:1313/remote/publication/sayed-hassen-11/</link>
+      <pubDate>Mon, 01 Aug 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/remote/publication/sayed-hassen-11/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A time-varying Kalman filter approach to frequency locking of an optical cavity</title>
+      <link>http://localhost:1313/remote/publication/sayed-hassen-10-c/</link>
+      <pubDate>Mon, 01 Nov 2010 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/remote/publication/sayed-hassen-10-c/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Optimal Amplitude Quadrature Control of an Optical Squeezer using an Integral LQG approach</title>
+      <link>http://localhost:1313/remote/publication/sayed-hassen-10-b/</link>
+      <pubDate>Wed, 01 Sep 2010 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/remote/publication/sayed-hassen-10-b/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A time-varying Kalman filter approach to integral LQG frequency locking of an optical cavity</title>
+      <link>http://localhost:1313/remote/publication/sayed-hassen-10-a/</link>
+      <pubDate>Thu, 01 Jul 2010 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/remote/publication/sayed-hassen-10-a/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LQG control of an Optical Squeezer</title>
+      <link>http://localhost:1313/remote/publication/sayed-hassen-10/</link>
+      <pubDate>Thu, 01 Jul 2010 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/remote/publication/sayed-hassen-10/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Optimal and Robust Feedback Control of Quantum Systems</title>
+      <link>http://localhost:1313/remote/publication/sayed-hassen-10-d/</link>
+      <pubDate>Thu, 01 Jul 2010 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/remote/publication/sayed-hassen-10-d/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Frequency Locking of an Optical Cavity using Linear-Quadratic Gaussian Integral Control</title>
+      <link>http://localhost:1313/remote/publication/sayed-hassen-09/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/remote/publication/sayed-hassen-09/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Laser Frequency Locking to an Optical Cavity using LQG control</title>
+      <link>http://localhost:1313/remote/publication/heurs-08/</link>
+      <pubDate>Fri, 01 Aug 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/remote/publication/heurs-08/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Frequency Locking of an Optical Cavity Using LQG Integral Control</title>
+      <link>http://localhost:1313/remote/publication/sayed-hassen-08/</link>
+      <pubDate>Tue, 01 Jul 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/remote/publication/sayed-hassen-08/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Frequency Locking of a Fabry-Perot cavity using LQG integral Control</title>
+      <link>http://localhost:1313/remote/publication/sayed-hassen-08-b/</link>
+      <pubDate>Sun, 01 Jun 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/remote/publication/sayed-hassen-08-b/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Application of Integral LQG control to the frequency locking of an Optical Laser cavity</title>
+      <link>http://localhost:1313/remote/publication/sayed-hassen-08-a/</link>
+      <pubDate>Tue, 01 Apr 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/remote/publication/sayed-hassen-08-a/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Laser-Cavity Frequency Locking using Integral LQG Control</title>
+      <link>http://localhost:1313/remote/publication/sayed-hassen-07/</link>
+      <pubDate>Sat, 01 Dec 2007 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/remote/publication/sayed-hassen-07/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

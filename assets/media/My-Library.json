@@ -1,0 +1,1624 @@
+[
+	{
+		"id": "http://zotero.org/users/local/M0HyLHwe/items/H8S7V546",
+		"type": "paper-conference",
+		"container-title": "European Control Conference",
+		"event-place": "Greece",
+		"publisher": "EUCA",
+		"publisher-place": "Greece",
+		"title": "A Data-Driven Model Predictive Controller to manage epidemics: The case of SARS-CoV-2 in Mauritius",
+		"author": [
+			{
+				"family": "Sayed Hassen",
+				"given": "Sayed Zahiruddeen"
+			},
+			{
+				"family": "Aboudonia",
+				"given": "Ahmed"
+			},
+			{
+				"family": "Lygeros",
+				"given": "John"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2025",
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/M0HyLHwe/items/MKITHRQT",
+		"type": "article-journal",
+		"container-title": "Advanced Control for Applications: Engineering and Industrial Systems",
+		"DOI": "10.1002/adc2.232",
+		"issue": "e232",
+		"page": "1-14",
+		"title": "Real-time Model Predictive Control of Air Conditioners through IoT—Results From an Experimental Setup in a Tropical Climate",
+		"author": [
+			{
+				"family": "Shamachurn",
+				"given": "Heman"
+			},
+			{
+				"family": "Seebaruth",
+				"given": "Manveer"
+			},
+			{
+				"family": "Kowlessur",
+				"given": "Nimai"
+			},
+			{
+				"family": "Sayed Hassen",
+				"given": "Sayed Zahiruddeen"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2024",
+					9
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/M0HyLHwe/items/QQ46Y5SP",
+		"type": "article-journal",
+		"container-title": "e-Prime: Advances in Electrical Engineering, Electronics and Energy",
+		"title": "Optimizing PID controllers in Multisource Power Systems through Evolutionary Algorithms",
+		"author": [
+			{
+				"family": "Murdan",
+				"given": "Anshu Prakash"
+			},
+			{
+				"family": "Jahmeerbacus",
+				"given": "Iqbal"
+			},
+			{
+				"family": "Sayed Hassen",
+				"given": "Sayed Zahiruddeen"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2024"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/M0HyLHwe/items/A2FCRIYE",
+		"type": "article-journal",
+		"container-title": "Building Services Engineering Research and Technology",
+		"title": "A perturb and observe efficiency control method for improving the energy performance of domestic water pumps",
+		"author": [
+			{
+				"family": "Jahmeerbacus",
+				"given": "Iqbal"
+			},
+			{
+				"family": "Sayed Hassen",
+				"given": "Sayed Zahiruddeen"
+			},
+			{
+				"family": "Gajadur",
+				"given": "Yogindersing"
+			},
+			{
+				"family": "Jugurnauth",
+				"given": "Rameshwar"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2024"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/M0HyLHwe/items/N3G6WSWX",
+		"type": "article-journal",
+		"container-title": "Clean Technologies and Recycling",
+		"DOI": "10.3934/ctr.2023015",
+		"issue": "4",
+		"page": "241-256",
+		"title": "Challenges of existing grid codes and the call for enhanced standards",
+		"volume": "3",
+		"author": [
+			{
+				"family": "Murdan",
+				"given": "Anshu Prakash"
+			},
+			{
+				"family": "Jahmeerbacus",
+				"given": "Iqbal"
+			},
+			{
+				"family": "Sayed Hassen",
+				"given": "Sayed Zahiruddeen"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2023",
+					9
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/M0HyLHwe/items/6TVM5CI5",
+		"type": "article-journal",
+		"container-title": "Qeios",
+		"DOI": "10.32388/K8JMQG.2",
+		"issue": "2632-3834",
+		"title": "A Mathematical Characterisation of COVID-19 in Mauritius",
+		"volume": "0",
+		"author": [
+			{
+				"family": "Sayed Hassen",
+				"given": "Sayed Zahiruddeen"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2023",
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/M0HyLHwe/items/C5ZSTJ9R",
+		"type": "article-journal",
+		"container-title": "Journal of Electrical Engineering, Electronics, Control and Computer Science",
+		"issue": "31",
+		"page": "29-36",
+		"title": "Simulation of the Rotor Side Vector Control of DFIG under different wind speed",
+		"URL": "https://jeeeccs.net/index.php/journal/article/view/343",
+		"volume": "9",
+		"author": [
+			{
+				"family": "Murdan",
+				"given": "Anshu Prakash"
+			},
+			{
+				"family": "Jahmeerbacus",
+				"given": "Iqbal"
+			},
+			{
+				"family": "Sayed Hassen",
+				"given": "Sayed Zahiruddeen"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2023",
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/M0HyLHwe/items/RV8L8S3F",
+		"type": "article-journal",
+		"container-title": "International Journal of Electronics",
+		"DOI": "10.1080/00207217.2023.2210299",
+		"issue": "0",
+		"note": "publisher: Taylor & Francis",
+		"page": "1-21",
+		"title": "Bandwidth oriented approach for the design of a PI controller for a three phase two-stage grid-connected PV system",
+		"volume": "0",
+		"author": [
+			{
+				"family": "Murdan",
+				"given": "Anshu Prakash"
+			},
+			{
+				"family": "Jahmeerbacus",
+				"given": "Iqbal"
+			},
+			{
+				"family": "Sayed Hassen",
+				"given": "Sayed Zahiruddeen"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2023"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/M0HyLHwe/items/NCGLNLVF",
+		"type": "paper-conference",
+		"container-title": "4th Int. Conf. on Emerging Trends in Elec., Elec. and Comm. Engg.",
+		"DOI": "10.1109/ELECOM54934.2022.9965223",
+		"event-place": "Mauritius",
+		"page": "1–6",
+		"publisher": "IEEE",
+		"publisher-place": "Mauritius",
+		"title": "A comparative analysis of Maximum Power Point Tracking (MPPT) Techniques of a Solar Panel",
+		"author": [
+			{
+				"family": "Gajadur",
+				"given": "Yogindersing"
+			},
+			{
+				"family": "Sayed Hassen",
+				"given": "Sayed Zahiruddeen"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					11
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/M0HyLHwe/items/YUMTC628",
+		"type": "paper-conference",
+		"container-title": "4th Int. Conf. on Emerging Trends in Elec., Elec. and Comm. Engg.",
+		"DOI": "10.1109/ELECOM54934.2022.9965258",
+		"event-place": "Mauritius",
+		"page": "1–6",
+		"publisher": "IEEE",
+		"publisher-place": "Mauritius",
+		"title": "Modeling and simulation of a STATCOM for reactive power control",
+		"author": [
+			{
+				"family": "Murdan",
+				"given": "A. P."
+			},
+			{
+				"family": "Jahmeerbacus",
+				"given": "I."
+			},
+			{
+				"family": "Sayed Hassen",
+				"given": "Sayed Zahiruddeen"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					11
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/M0HyLHwe/items/ZXLATYEK",
+		"type": "article-journal",
+		"container-title": "Int. J. of Modelling, Identification and Control",
+		"DOI": "10.1504/IJMIC.2023.128763",
+		"issue": "1",
+		"page": "83–104",
+		"title": "Development of control-oriented models for a building under regular heating, ventilation and air-conditioning operation – A comparative simulation study and an experimental validation",
+		"volume": "42",
+		"author": [
+			{
+				"family": "Shamachurn",
+				"given": "H."
+			},
+			{
+				"family": "Sayed Hassen",
+				"given": "Sayed Zahiruddeen"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2023"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/M0HyLHwe/items/JRM8Q5VH",
+		"type": "manuscript",
+		"title": "COVID-19 and its spread in relation to ambient temperature",
+		"author": [
+			{
+				"family": "Sayed Hassen",
+				"given": "Sayed Zahiruddeen"
+			},
+			{
+				"family": "Sayed Hassen",
+				"given": "A. H."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2021"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/M0HyLHwe/items/FCZ3KUDM",
+		"type": "manuscript",
+		"title": "An analysis of COVID-19 and its spread in relation to population density",
+		"author": [
+			{
+				"family": "Sayed Hassen",
+				"given": "A. H."
+			},
+			{
+				"family": "Sayed Hassen",
+				"given": "Sayed Zahiruddeen"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2021"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/M0HyLHwe/items/PWWHKJ2I",
+		"type": "paper-conference",
+		"container-title": "Control Conference Africa",
+		"event-place": "Johannesburg, South-Africa",
+		"page": "31–36",
+		"publisher": "Int. Fed. Automatic Control",
+		"publisher-place": "Johannesburg, South-Africa",
+		"title": "Experimental validation of three nonlinear MPP solar tracking techniques",
+		"author": [
+			{
+				"family": "Gajadur",
+				"given": "Y."
+			},
+			{
+				"family": "Sayed Hassen",
+				"given": "Sayed Zahiruddeen"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					12
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/M0HyLHwe/items/TLAPMAII",
+		"type": "paper-conference",
+		"collection-title": "Lecture Notes in Networks and Systems",
+		"container-title": "Proceedings of the Future Technologies Conference",
+		"note": "issue: 2",
+		"page": "526–539",
+		"publisher": "Springer",
+		"title": "A Framework for AI-Based Building Controls to Adapt Passive Measures for Optimum Thermal Comfort and Energy Efficiency in Tropical Climates",
+		"volume": "359",
+		"author": [
+			{
+				"family": "Gooroochurn",
+				"given": "M."
+			},
+			{
+				"family": "Mallet",
+				"given": "D."
+			},
+			{
+				"family": "Jahmeerbacus",
+				"given": "I."
+			},
+			{
+				"family": "Shamachurn",
+				"given": "H."
+			},
+			{
+				"family": "Sayed Hassen",
+				"given": "Sayed Zahiruddeen"
+			}
+		],
+		"editor": [
+			{
+				"family": "Arai",
+				"given": "K."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2021"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/M0HyLHwe/items/2XA9WPE2",
+		"type": "paper-conference",
+		"container-title": "Third Int. Conf. on Emerging Trends in Elec., Elec. and Comm. Engg.",
+		"event-place": "Mauritius",
+		"page": "124–129",
+		"publisher": "IEEE",
+		"publisher-place": "Mauritius",
+		"title": "Modeling, control and simulation of a Wave Energy Converter",
+		"author": [
+			{
+				"family": "Sayed Hassen",
+				"given": "Sayed Zahiruddeen"
+			},
+			{
+				"family": "Souky",
+				"given": "S."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					11
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/M0HyLHwe/items/DZYPQPU3",
+		"type": "paper-conference",
+		"container-title": "Third Int. Conf. on Emerging Trends in Elec., Elec. and Comm. Engg.",
+		"event-place": "Mauritius",
+		"page": "118–123",
+		"publisher": "IEEE",
+		"publisher-place": "Mauritius",
+		"title": "Solar tracking for optimum energy generation using Extremum Seeking Control",
+		"author": [
+			{
+				"family": "Gobin",
+				"given": "S."
+			},
+			{
+				"family": "Sayed Hassen",
+				"given": "Sayed Zahiruddeen"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					11
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/M0HyLHwe/items/3ALMCXZ8",
+		"type": "paper-conference",
+		"container-title": "Third Int. Conf. on Emerging Trends in Elec., Elec. and Comm. Engg.",
+		"event-place": "Mauritius",
+		"page": "73–78",
+		"publisher": "IEEE",
+		"publisher-place": "Mauritius",
+		"title": "A comparison between optimization and filtering techniques for RC Thermal model identification",
+		"author": [
+			{
+				"family": "Shamachurn",
+				"given": "H."
+			},
+			{
+				"family": "Sayed Hassen",
+				"given": "Sayed Zahiruddeen"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					11
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/M0HyLHwe/items/2T93VPLH",
+		"type": "paper-conference",
+		"container-title": "IEEE PES/IAS PowerAfrica Conference",
+		"event-place": "Kenya",
+		"page": "855–860",
+		"publisher-place": "Kenya",
+		"title": "Thermal model and disturbance co-identification using optimization and filtering techniques",
+		"author": [
+			{
+				"family": "Shamachurn",
+				"given": "H."
+			},
+			{
+				"family": "Sayed Hassen",
+				"given": "Sayed Zahiruddeen"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/M0HyLHwe/items/ASZPD4TV",
+		"type": "paper-conference",
+		"container-title": "2nd International Conference on Power Energy, Environment and Intelligent Control",
+		"event-place": "India",
+		"page": "411–417",
+		"publisher-place": "India",
+		"title": "A performance evaluation of fuzzy logic controllers for load frequency control in a single area network",
+		"author": [
+			{
+				"family": "Murdan",
+				"given": "A."
+			},
+			{
+				"family": "Sayed Hassen",
+				"given": "Sayed Zahiruddeen"
+			},
+			{
+				"family": "Jahmeerbacus",
+				"given": "I."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					10
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/M0HyLHwe/items/7RBAP8RI",
+		"type": "paper-conference",
+		"container-title": "International Conf. on Emerging Trends in Elec., Elec. and Comm. Engg.",
+		"event-place": "Mauritius",
+		"page": "96–106",
+		"publisher": "Springer",
+		"publisher-place": "Mauritius",
+		"title": "A comparative study of different solar power tracking control techniques",
+		"author": [
+			{
+				"family": "Mooraby",
+				"given": "M. M. R."
+			},
+			{
+				"family": "Sayed Hassen",
+				"given": "Sayed Zahiruddeen"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					11
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/M0HyLHwe/items/RX5WID72",
+		"type": "paper-conference",
+		"container-title": "Control Conference Africa",
+		"event-place": "Johannesburg, South-Africa",
+		"page": "301–306",
+		"publisher": "Int. Fed. Automatic Control",
+		"publisher-place": "Johannesburg, South-Africa",
+		"title": "Intelligent Controllers for Load Frequency Control of Two-area Power System",
+		"author": [
+			{
+				"family": "Azeer",
+				"given": "S. A."
+			},
+			{
+				"family": "Ramjug-Ballgobin",
+				"given": "R."
+			},
+			{
+				"family": "Sayed Hassen",
+				"given": "Sayed Zahiruddeen"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					12
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/M0HyLHwe/items/IABY76XZ",
+		"type": "paper-conference",
+		"container-title": "Proc. Ninth Int. Conf. Quantum Comm., Meas. and Comp.",
+		"event-place": "Calgary, Canada",
+		"page": "295–298",
+		"publisher": "American Institute of Physics",
+		"publisher-place": "Calgary, Canada",
+		"title": "Laser Frequency Locking to an Optical Cavity using LQG control",
+		"volume": "1110",
+		"author": [
+			{
+				"family": "Heurs",
+				"given": "M."
+			},
+			{
+				"family": "Huntington",
+				"given": "E."
+			},
+			{
+				"family": "Sayed Hassen",
+				"given": "Sayed Zahiruddeen"
+			},
+			{
+				"family": "Petersen",
+				"given": "I. R."
+			},
+			{
+				"family": "James",
+				"given": "M."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2008",
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/M0HyLHwe/items/VWH68YVK",
+		"type": "paper-conference",
+		"container-title": "IEEE Multi-conference on Systems and Control",
+		"event-place": "Dubrovnik, Croatia",
+		"page": "794–799",
+		"publisher-place": "Dubrovnik, Croatia",
+		"title": "Digital Locking of a Three-Mirror Ring Cavity",
+		"author": [
+			{
+				"family": "Kallapur",
+				"given": "A."
+			},
+			{
+				"family": "Schütte",
+				"given": "D."
+			},
+			{
+				"family": "Petersen",
+				"given": "I."
+			},
+			{
+				"family": "Boyson",
+				"given": "T."
+			},
+			{
+				"family": "Huntington",
+				"given": "E."
+			},
+			{
+				"family": "Sayed Hassen",
+				"given": "Sayed Zahiruddeen"
+			},
+			{
+				"family": "Song",
+				"given": "H."
+			},
+			{
+				"family": "Heurs",
+				"given": "M."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2012",
+					10
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/M0HyLHwe/items/YMNE5TX8",
+		"type": "article-journal",
+		"container-title": "IEEE Transactions Control Systems Technology",
+		"DOI": "10.1109/TCST.2014.2331274",
+		"issue": "2",
+		"page": "715–721",
+		"title": "Design and implementation of an optical cavity locking controller test bed system",
+		"volume": "23",
+		"author": [
+			{
+				"family": "Kallapur",
+				"given": "A."
+			},
+			{
+				"family": "Schütte",
+				"given": "D."
+			},
+			{
+				"family": "Petersen",
+				"given": "I."
+			},
+			{
+				"family": "Boyson",
+				"given": "T."
+			},
+			{
+				"family": "Huntington",
+				"given": "E."
+			},
+			{
+				"family": "Sayed Hassen",
+				"given": "Sayed Zahiruddeen"
+			},
+			{
+				"family": "Song",
+				"given": "H."
+			},
+			{
+				"family": "Heurs",
+				"given": "M."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/M0HyLHwe/items/S47GCBY3",
+		"type": "paper-conference",
+		"container-title": "Int. Conf. Computing, Communication and Security",
+		"event-place": "Le Meridien, Mauritius",
+		"page": "345–350",
+		"publisher": "IEEE",
+		"publisher-place": "Le Meridien, Mauritius",
+		"title": "Load Frequency control of a Nonlinear Two-Area Power System",
+		"author": [
+			{
+				"family": "Ramjug-Ballgobin",
+				"given": "R."
+			},
+			{
+				"family": "Sayed Hassen",
+				"given": "Sayed Zahiruddeen"
+			},
+			{
+				"family": "Veerapen",
+				"given": "S."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					12
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/M0HyLHwe/items/M7W4B6PU",
+		"type": "paper-conference",
+		"container-title": "ISCA 15th International Conference on Computers and Their Applications",
+		"event-place": "New Orleans, Louisiana",
+		"page": "418-421",
+		"publisher-place": "New Orleans, Louisiana",
+		"title": "Modelling systems for control studies - An overview",
+		"author": [
+			{
+				"family": "Sayed Hassen",
+				"given": "Sayed Zahiruddeen"
+			},
+			{
+				"family": "Crusca",
+				"given": "Francesco"
+			},
+			{
+				"family": "Abachi",
+				"given": "Hamid"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2000",
+					3
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/M0HyLHwe/items/6M3J26LV",
+		"type": "thesis",
+		"event-place": "Monash University, Australia",
+		"genre": "MEngSc",
+		"publisher": "Electrical and Computer Systems Engineering",
+		"publisher-place": "Monash University, Australia",
+		"title": "Robust and gain-scheduled control using Linear Matrix Inequalities",
+		"author": [
+			{
+				"family": "Sayed Hassen",
+				"given": "Sayed Zahiruddeen"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2001",
+					4
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/M0HyLHwe/items/2MXTITF2",
+		"type": "paper-conference",
+		"container-title": "IEEE Third International Conference on Computational Cybernetics",
+		"event-place": "Hotel Le Victoria, Mauritius",
+		"page": "351–356",
+		"publisher-place": "Hotel Le Victoria, Mauritius",
+		"title": "Polytopic and LFT Approach to Gain-Scheduling: A design example",
+		"author": [
+			{
+				"family": "Sayed Hassen",
+				"given": "Sayed Zahiruddeen"
+			},
+			{
+				"family": "Crusca",
+				"given": "F."
+			},
+			{
+				"family": "Bhurtun",
+				"given": "C."
+			}
+		],
+		"editor": [
+			{
+				"family": "Rudas",
+				"given": "I. J."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2005",
+					4
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/M0HyLHwe/items/A5U5ZA6P",
+		"type": "paper-conference",
+		"container-title": "Industrial and Commercial Use of Energy Conference",
+		"event-place": "Cape-Town, South-Africa",
+		"page": "137–140",
+		"publisher-place": "Cape-Town, South-Africa",
+		"title": "Trends in the Power Sector in Mauritius",
+		"author": [
+			{
+				"family": "Sayed Hassen",
+				"given": "Sayed Zahiruddeen"
+			},
+			{
+				"family": "Bhurtun",
+				"given": "C."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2005",
+					5
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/M0HyLHwe/items/ES4UA3HD",
+		"type": "manuscript",
+		"title": "Laser-Cavity Frequency Locking using Integral LQG Control",
+		"author": [
+			{
+				"family": "Sayed Hassen",
+				"given": "Sayed Zahiruddeen"
+			},
+			{
+				"family": "Huntington",
+				"given": "E. H."
+			},
+			{
+				"family": "James",
+				"given": "M. R."
+			},
+			{
+				"family": "Petersen",
+				"given": "I. R."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2007",
+					12
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/M0HyLHwe/items/YFNLT6BP",
+		"type": "paper-conference",
+		"container-title": "Proc. of the 17th IFAC World Congress",
+		"event-place": "Seoul, South-Korea",
+		"page": "1821–1826",
+		"publisher-place": "Seoul, South-Korea",
+		"title": "Frequency Locking of an Optical Cavity Using LQG Integral Control",
+		"author": [
+			{
+				"family": "Sayed Hassen",
+				"given": "Sayed Zahiruddeen"
+			},
+			{
+				"family": "Huntington",
+				"given": "E."
+			},
+			{
+				"family": "Petersen",
+				"given": "I. R."
+			},
+			{
+				"family": "James",
+				"given": "M. R."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2008",
+					7
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/M0HyLHwe/items/2UPYCMU7",
+		"type": "manuscript",
+		"title": "Application of Integral LQG control to the frequency locking of an Optical Laser cavity",
+		"author": [
+			{
+				"family": "Sayed Hassen",
+				"given": "Sayed Zahiruddeen"
+			},
+			{
+				"family": "Heurs",
+				"given": "M."
+			},
+			{
+				"family": "Petersen",
+				"given": "I. R."
+			},
+			{
+				"family": "Huntington",
+				"given": "E. H."
+			},
+			{
+				"family": "James",
+				"given": "M. R."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2008",
+					4
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/M0HyLHwe/items/N6UG79FE",
+		"type": "manuscript",
+		"title": "Frequency Locking of a Fabry-Perot cavity using LQG integral Control",
+		"author": [
+			{
+				"family": "Heurs",
+				"given": "M."
+			},
+			{
+				"family": "Sayed Hassen",
+				"given": "Sayed Zahiruddeen"
+			},
+			{
+				"family": "Petersen",
+				"given": "I. R."
+			},
+			{
+				"family": "Huntington",
+				"given": "E. H."
+			},
+			{
+				"family": "James",
+				"given": "M. R."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2008",
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/M0HyLHwe/items/AP2QUWKR",
+		"type": "article-journal",
+		"container-title": "J. Phys. B: At. Mol. Opt. Phys.",
+		"DOI": "10.1088/0953-4075/42/17/175501",
+		"issue": "17",
+		"page": "175501",
+		"title": "Frequency Locking of an Optical Cavity using Linear-Quadratic Gaussian Integral Control",
+		"volume": "42",
+		"author": [
+			{
+				"family": "Sayed Hassen",
+				"given": "Sayed Zahiruddeen"
+			},
+			{
+				"family": "Heurs",
+				"given": "M."
+			},
+			{
+				"family": "Huntington",
+				"given": "E. H."
+			},
+			{
+				"family": "Petersen",
+				"given": "I. R."
+			},
+			{
+				"family": "James",
+				"given": "M. R."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2009"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/M0HyLHwe/items/88XTKMAF",
+		"type": "paper-conference",
+		"container-title": "American Control Conference",
+		"event-place": "Baltimore, MD, USA",
+		"page": "2730–2735",
+		"publisher-place": "Baltimore, MD, USA",
+		"title": "LQG control of an Optical Squeezer",
+		"author": [
+			{
+				"family": "Sayed Hassen",
+				"given": "Sayed Zahiruddeen"
+			},
+			{
+				"family": "Petersen",
+				"given": "I. R."
+			},
+			{
+				"family": "Huntington",
+				"given": "E. H."
+			},
+			{
+				"family": "Heurs",
+				"given": "M."
+			},
+			{
+				"family": "James",
+				"given": "M. R."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2010",
+					7
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/M0HyLHwe/items/NC53LLS8",
+		"type": "paper-conference",
+		"container-title": "American Control Conference",
+		"event-place": "Baltimore, MD, USA",
+		"page": "2736–2741",
+		"publisher-place": "Baltimore, MD, USA",
+		"title": "A time-varying Kalman filter approach to integral LQG frequency locking of an optical cavity",
+		"author": [
+			{
+				"family": "Sayed Hassen",
+				"given": "Sayed Zahiruddeen"
+			},
+			{
+				"family": "Petersen",
+				"given": "I. R."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2010",
+					7
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/M0HyLHwe/items/HI5ZSD3D",
+		"type": "paper-conference",
+		"container-title": "IEEE Int. Conf. Control Appl.",
+		"event-place": "Yokohama, Japan",
+		"page": "286–291",
+		"publisher-place": "Yokohama, Japan",
+		"title": "Optimal Amplitude Quadrature Control of an Optical Squeezer using an Integral LQG approach",
+		"author": [
+			{
+				"family": "Sayed Hassen",
+				"given": "Sayed Zahiruddeen"
+			},
+			{
+				"family": "Petersen",
+				"given": "I. R."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2010",
+					9
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/M0HyLHwe/items/ZLT6P9A6",
+		"type": "manuscript",
+		"title": "A time-varying Kalman filter approach to frequency locking of an optical cavity",
+		"author": [
+			{
+				"family": "Sayed Hassen",
+				"given": "Sayed Zahiruddeen"
+			},
+			{
+				"family": "Petersen",
+				"given": "I. R."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2010",
+					11
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/M0HyLHwe/items/SKNUTFR5",
+		"type": "thesis",
+		"genre": "PhD Thesis",
+		"publisher": "University of New South Wales",
+		"title": "Optimal and Robust Feedback Control of Quantum Systems",
+		"author": [
+			{
+				"family": "Sayed Hassen",
+				"given": "Sayed Zahiruddeen"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2010",
+					7
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/M0HyLHwe/items/487I8TC4",
+		"type": "paper-conference",
+		"container-title": "Proc. of the 18th IFAC World Congress",
+		"event-place": "Milano, Italy",
+		"page": "7553–7558",
+		"publisher-place": "Milano, Italy",
+		"title": "Optimal Squeezing using Multivariable Integral LQG Control",
+		"author": [
+			{
+				"family": "Sayed Hassen",
+				"given": "Sayed Zahiruddeen"
+			},
+			{
+				"family": "Petersen",
+				"given": "I. R."
+			},
+			{
+				"family": "Huntington",
+				"given": "E. H."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2011",
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/M0HyLHwe/items/MEUEUEUF",
+		"type": "paper-conference",
+		"container-title": "Proc. IASTED Asian Conf. on Modelling, Ident. and Cont.",
+		"DOI": "10.2316/P.2012.769-087",
+		"event-place": "Phuket, Thailand",
+		"publisher-place": "Phuket, Thailand",
+		"title": "Optimal frequency regulation of a single-area power system",
+		"author": [
+			{
+				"family": "Sayed Hassen",
+				"given": "Sayed Zahiruddeen"
+			},
+			{
+				"family": "Jahmeerbacus",
+				"given": "M. I."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2012",
+					4
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/M0HyLHwe/items/9T2UDMI2",
+		"type": "article-journal",
+		"container-title": "Int. J. Elec. and Elec. Engg.",
+		"DOI": "10.5281/zenodo.1331741",
+		"issue": "51",
+		"page": "313–320",
+		"title": "A robust approach to the load frequency control problem with speed regulation uncertainty",
+		"volume": "6",
+		"author": [
+			{
+				"family": "Sayed Hassen",
+				"given": "Sayed Zahiruddeen"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2012"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/M0HyLHwe/items/EFPLMY95",
+		"type": "paper-conference",
+		"container-title": "IEEE Inter. Conf. on Industrial Tech.",
+		"event-place": "Cape Town, South-Africa",
+		"page": "140–145",
+		"publisher-place": "Cape Town, South-Africa",
+		"title": "Optimal Frequency Regulation of a Two-area power system",
+		"author": [
+			{
+				"family": "Sayed Hassen",
+				"given": "Sayed Zahiruddeen"
+			},
+			{
+				"family": "Jahmeerbacus",
+				"given": "M. I."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2013",
+					2
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/M0HyLHwe/items/A7BV3AFK",
+		"type": "article-journal",
+		"container-title": "IEEE Transactions Control Systems Technology",
+		"DOI": "10.1109/TCST.2013.2266693",
+		"issue": "3",
+		"page": "1143–1150",
+		"title": "Frequency locking of an optical cavity using a time-varying Kalman filtering approach",
+		"volume": "22",
+		"author": [
+			{
+				"family": "Sayed Hassen",
+				"given": "Sayed Zahiruddeen"
+			},
+			{
+				"family": "Petersen",
+				"given": "I."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/M0HyLHwe/items/SGKQA5NJ",
+		"type": "paper-conference",
+		"container-title": "Proc. of the 19th IFAC World Congress",
+		"event-place": "Cape Town, South-Africa",
+		"page": "11787–11792",
+		"publisher-place": "Cape Town, South-Africa",
+		"title": "Extremum seeking control of an optical cavity",
+		"author": [
+			{
+				"family": "Sayed Hassen",
+				"given": "Sayed Zahiruddeen"
+			},
+			{
+				"family": "Petersen",
+				"given": "I. R."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014",
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/M0HyLHwe/items/WE74X2WS",
+		"type": "article-journal",
+		"container-title": "Applied Mathematical Modelling",
+		"DOI": "10.1016/j.apm.2014.11.066",
+		"issue": "13",
+		"page": "3846–3861",
+		"title": "Modelling, analysis and simulation of an optical squeezer",
+		"volume": "39",
+		"author": [
+			{
+				"family": "Sayed Hassen",
+				"given": "Sayed Zahiruddeen"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/M0HyLHwe/items/EJCZLFA4",
+		"type": "article-journal",
+		"container-title": "Physical Review Applied",
+		"DOI": "10.1103/PhysRevApplied.5.014005",
+		"issue": "014005",
+		"title": "Experimental demonstration of frequency autolocking an optical cavity using a time-varying Kalman filter",
+		"volume": "5",
+		"author": [
+			{
+				"family": "Schütte",
+				"given": "D."
+			},
+			{
+				"family": "Sayed Hassen",
+				"given": "Sayed Zahiruddeen"
+			},
+			{
+				"family": "Karvinen",
+				"given": "K. S."
+			},
+			{
+				"family": "Boyson",
+				"given": "T. K."
+			},
+			{
+				"family": "Kallapur",
+				"given": "A. G."
+			},
+			{
+				"family": "Song",
+				"given": "H."
+			},
+			{
+				"family": "Petersen",
+				"given": "I. R."
+			},
+			{
+				"family": "Huntington",
+				"given": "E. H."
+			},
+			{
+				"family": "Heurs",
+				"given": "M."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/M0HyLHwe/items/PXGB46CL",
+		"type": "article-journal",
+		"container-title": "Applied Energy",
+		"DOI": "10.1016/j.apenergy.2016.05.138",
+		"page": "683–691",
+		"title": "A composite metric for assessing flexibility available in conventional generators of power systems",
+		"volume": "177",
+		"author": [
+			{
+				"family": "Oree",
+				"given": "V."
+			},
+			{
+				"family": "Sayed Hassen",
+				"given": "Sayed Zahiruddeen"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/M0HyLHwe/items/WVWYXKJN",
+		"type": "paper-conference",
+		"container-title": "International Conf. on Emerging Trends in Elec., Elec. and Comm. Engg",
+		"event-place": "Mauritius",
+		"page": "129–142",
+		"publisher": "Springer",
+		"publisher-place": "Mauritius",
+		"title": "A power flow control scheme for photovoltaic to a low voltage microgrid system",
+		"author": [
+			{
+				"family": "Sayed Hassen",
+				"given": "Sayed Zahiruddeen"
+			},
+			{
+				"family": "Jahmeerbacus",
+				"given": "M. I."
+			},
+			{
+				"family": "Sewraj",
+				"given": "K."
+			},
+			{
+				"family": "Ruhomaun",
+				"given": "M. S."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					11
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/M0HyLHwe/items/ICPRR26T",
+		"type": "article-journal",
+		"container-title": "Renewable and Sustainable Energy Reviews",
+		"DOI": "10.1016/j.rser.2016.11.120",
+		"page": "790-803",
+		"title": "Generation expansion planning optimisation with renewable energy integration: A review",
+		"volume": "69",
+		"author": [
+			{
+				"family": "Oree",
+				"given": "V."
+			},
+			{
+				"family": "Sayed Hassen",
+				"given": "Sayed Zahiruddeen"
+			},
+			{
+				"family": "Fleming",
+				"given": "P. J."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					3
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/M0HyLHwe/items/FW3VV8CN",
+		"type": "article-journal",
+		"container-title": "Applied Energy",
+		"DOI": "10.1016/j.apenergy.2019.113589",
+		"page": "113589",
+		"title": "A multi-objective framework for long-term generation expansion planning with variable renewables",
+		"volume": "253",
+		"author": [
+			{
+				"family": "Oree",
+				"given": "V."
+			},
+			{
+				"family": "Sayed Hassen",
+				"given": "Sayed Zahiruddeen"
+			},
+			{
+				"family": "Fleming",
+				"given": "P. J."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					11
+				]
+			]
+		}
+	}
+]

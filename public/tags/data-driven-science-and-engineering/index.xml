@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data-Driven Science and Engineering | Sayed Hassen Page</title>
+    <link>http://localhost:1313/remote/tags/data-driven-science-and-engineering/</link>
+      <atom:link href="http://localhost:1313/remote/tags/data-driven-science-and-engineering/index.xml" rel="self" type="application/rss+xml" />
+    <description>Data-Driven Science and Engineering</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 09 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/remote/media/icon_hu7729264130191091259.png</url>
+      <title>Data-Driven Science and Engineering</title>
+      <link>http://localhost:1313/remote/tags/data-driven-science-and-engineering/</link>
+    </image>
+    
+    <item>
+      <title>Data-Driven Control</title>
+      <link>http://localhost:1313/remote/research/ddc/</link>
+      <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/remote/research/ddc/</guid>
+      <description>&lt;h3 id=&#34;frequency-response-estimation&#34;&gt;Frequency Response Estimation&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;The existing nonparametric frequency response estimation methods suffer from leakage and have limited frequency resolution. Due to the leakage and interpolation errors these methods do not yield the correct result in case of exact data of a linear time-invariant system. A nonparameteric direct data-driven frequency response estimation method that in case of exact data satisfying standard persistency of excitation condition eliminates the leakage and has infinite frequency resolution. It requires solving a system of linear equations and has no hyper-parameters. In case of noisy data, a modification of the method with low-rank approximation result in an effective frequency response estimator.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;data-driven-modeling-of-energy-storage-systems&#34;&gt;Data-driven modeling of energy storage systems&lt;/h3&gt;
+&lt;h3 id=&#34;data-driven-modeling-of-type-2-diabetes-patients&#34;&gt;Data-driven modeling of Type-2 Diabetes patients.&lt;/h3&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
