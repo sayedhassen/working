@@ -2,7 +2,6 @@
   "htmlElements": {
     "tags": [
       "--",
-      "?xml",
       "a",
       "article",
       "aside",
@@ -597,7 +596,7 @@
       "TableOfContents",
       "about-me",
       "callouts",
-      "chart-813265974",
+      "chart-346189275",
       "charts",
       "code",
       "control-systems-toolbox",
