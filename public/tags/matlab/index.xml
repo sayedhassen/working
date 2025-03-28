@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Matlab | Sayed Hassen Page</title>
-    <link>http://localhost:1313/remote/tags/matlab/</link>
-      <atom:link href="http://localhost:1313/remote/tags/matlab/index.xml" rel="self" type="application/rss+xml" />
+    <title>Matlab | Sayed&#39;s Page</title>
+    <link>http://localhost:1313/working/tags/matlab/</link>
+      <atom:link href="http://localhost:1313/working/tags/matlab/index.xml" rel="self" type="application/rss+xml" />
     <description>Matlab</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 30 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/remote/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/working/media/icon_hu7729264130191091259.png</url>
       <title>Matlab</title>
-      <link>http://localhost:1313/remote/tags/matlab/</link>
+      <link>http://localhost:1313/working/tags/matlab/</link>
     </image>
     
     <item>
       <title>MATLAB programming</title>
-      <link>http://localhost:1313/remote/teaching/matlab/</link>
+      <link>http://localhost:1313/working/teaching/matlab/</link>
       <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/remote/teaching/matlab/</guid>
+      <guid>http://localhost:1313/working/teaching/matlab/</guid>
       <description>&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.mathworks.com/products/matlab.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MATLAB&lt;/a&gt;&lt;/strong&gt; is a programming language that is widely used to analyse, solve, model and simulate systems in the field of engineering and mathematics.  It also has various in-built toolboxes which come in handy in various sub-disciplines of Electrical and Electronic Engineering.&lt;/p&gt;
 &lt;p&gt;A good &lt;strong&gt;Introduction to MATLAB&lt;/strong&gt; which will get you going in under 2 hours is available &lt;a href=&#34;https://www.youtube.com/watch?v=7f50sQYjNRA&amp;amp;t=14s&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;:&lt;/p&gt;
 

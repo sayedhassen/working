@@ -1,49 +1,49 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Generation Expansion Planning | Sayed Hassen Page</title>
-    <link>http://localhost:1313/remote/tags/generation-expansion-planning/</link>
-      <atom:link href="http://localhost:1313/remote/tags/generation-expansion-planning/index.xml" rel="self" type="application/rss+xml" />
+    <title>Generation Expansion Planning | Sayed&#39;s Page</title>
+    <link>http://localhost:1313/working/tags/generation-expansion-planning/</link>
+      <atom:link href="http://localhost:1313/working/tags/generation-expansion-planning/index.xml" rel="self" type="application/rss+xml" />
     <description>Generation Expansion Planning</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/remote/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/working/media/icon_hu7729264130191091259.png</url>
       <title>Generation Expansion Planning</title>
-      <link>http://localhost:1313/remote/tags/generation-expansion-planning/</link>
+      <link>http://localhost:1313/working/tags/generation-expansion-planning/</link>
     </image>
     
     <item>
       <title>Power Systems Planning and Optimisation</title>
-      <link>http://localhost:1313/remote/research/gep/</link>
+      <link>http://localhost:1313/working/research/gep/</link>
       <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/remote/research/gep/</guid>
+      <guid>http://localhost:1313/working/research/gep/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Generation Expansion Planning&lt;/strong&gt; (GEP) uses global optimisation techniques to minimise the total investment while satisfying operation constraints.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>A multi-objective framework for long-term generation expansion planning with variable renewables</title>
-      <link>http://localhost:1313/remote/publication/sayed-hassen-19/</link>
+      <link>http://localhost:1313/working/publication/sayed-hassen-19/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/remote/publication/sayed-hassen-19/</guid>
+      <guid>http://localhost:1313/working/publication/sayed-hassen-19/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Generation expansion planning optimisation with renewable energy integration: A review</title>
-      <link>http://localhost:1313/remote/publication/sayed-hassen-17/</link>
+      <link>http://localhost:1313/working/publication/sayed-hassen-17/</link>
       <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/remote/publication/sayed-hassen-17/</guid>
+      <guid>http://localhost:1313/working/publication/sayed-hassen-17/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>A composite metric for assessing flexibility available in conventional generators of power systems</title>
-      <link>http://localhost:1313/remote/publication/sayed-hassen-16-a/</link>
+      <link>http://localhost:1313/working/publication/sayed-hassen-16-a/</link>
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/remote/publication/sayed-hassen-16-a/</guid>
+      <guid>http://localhost:1313/working/publication/sayed-hassen-16-a/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>

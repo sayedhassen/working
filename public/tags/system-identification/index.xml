@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>System Identification | Sayed Hassen Page</title>
-    <link>http://localhost:1313/remote/tags/system-identification/</link>
-      <atom:link href="http://localhost:1313/remote/tags/system-identification/index.xml" rel="self" type="application/rss+xml" />
+    <title>System Identification | Sayed&#39;s Page</title>
+    <link>http://localhost:1313/working/tags/system-identification/</link>
+      <atom:link href="http://localhost:1313/working/tags/system-identification/index.xml" rel="self" type="application/rss+xml" />
     <description>System Identification</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/remote/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/working/media/icon_hu7729264130191091259.png</url>
       <title>System Identification</title>
-      <link>http://localhost:1313/remote/tags/system-identification/</link>
+      <link>http://localhost:1313/working/tags/system-identification/</link>
     </image>
     
     <item>
       <title>A comparison between optimization and filtering techniques for RC Thermal model identification</title>
-      <link>http://localhost:1313/remote/publication/shamachurn-20-a/</link>
+      <link>http://localhost:1313/working/publication/shamachurn-20-a/</link>
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/remote/publication/shamachurn-20-a/</guid>
+      <guid>http://localhost:1313/working/publication/shamachurn-20-a/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Thermal model and disturbance co-identification using optimization and filtering techniques</title>
-      <link>http://localhost:1313/remote/publication/shamachurn-20/</link>
+      <link>http://localhost:1313/working/publication/shamachurn-20/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/remote/publication/shamachurn-20/</guid>
+      <guid>http://localhost:1313/working/publication/shamachurn-20/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>

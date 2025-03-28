@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Current Research | Sayed Hassen Page</title>
-    <link>http://localhost:1313/remote/research/</link>
-      <atom:link href="http://localhost:1313/remote/research/index.xml" rel="self" type="application/rss+xml" />
+    <title>Current Research | Sayed&#39;s Page</title>
+    <link>http://localhost:1313/working/research/</link>
+      <atom:link href="http://localhost:1313/working/research/index.xml" rel="self" type="application/rss+xml" />
     <description>Current Research</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 09 Feb 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/remote/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/working/media/icon_hu7729264130191091259.png</url>
       <title>Current Research</title>
-      <link>http://localhost:1313/remote/research/</link>
+      <link>http://localhost:1313/working/research/</link>
     </image>
     
     <item>
       <title>Data-Driven Control</title>
-      <link>http://localhost:1313/remote/research/ddc/</link>
+      <link>http://localhost:1313/working/research/ddc/</link>
       <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/remote/research/ddc/</guid>
+      <guid>http://localhost:1313/working/research/ddc/</guid>
       <description>&lt;h3 id=&#34;frequency-response-estimation&#34;&gt;Frequency Response Estimation&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;The existing nonparametric frequency response estimation methods suffer from leakage and have limited frequency resolution. Due to the leakage and interpolation errors these methods do not yield the correct result in case of exact data of a linear time-invariant system. A nonparameteric direct data-driven frequency response estimation method that in case of exact data satisfying standard persistency of excitation condition eliminates the leakage and has infinite frequency resolution. It requires solving a system of linear equations and has no hyper-parameters. In case of noisy data, a modification of the method with low-rank approximation result in an effective frequency response estimator.&lt;/li&gt;
@@ -28,18 +28,18 @@
     
     <item>
       <title>Power Systems Planning and Optimisation</title>
-      <link>http://localhost:1313/remote/research/gep/</link>
+      <link>http://localhost:1313/working/research/gep/</link>
       <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/remote/research/gep/</guid>
+      <guid>http://localhost:1313/working/research/gep/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Generation Expansion Planning&lt;/strong&gt; (GEP) uses global optimisation techniques to minimise the total investment while satisfying operation constraints.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Mathematical Modeling and Control of Epidemics</title>
-      <link>http://localhost:1313/remote/research/covid/</link>
+      <link>http://localhost:1313/working/research/covid/</link>
       <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/remote/research/covid/</guid>
+      <guid>http://localhost:1313/working/research/covid/</guid>
       <description>&lt;p&gt;Modeled the COVID-19 pandemic using nonlinear differential equations with a view to better control a potential breakout of a new  variant of COVID or any other virus. In particular,  data for the case of          Mauritius has been used to propose a Model Predictive Control approach to          mitigate its impact. There is room for further work using data-driven              control approach. Please reach out if interested to collaborate/undertake          further studies in the area.&lt;/p&gt;
 </description>
     </item>

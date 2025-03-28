@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Grid Codes | Sayed Hassen Page</title>
-    <link>http://localhost:1313/remote/tags/grid-codes/</link>
-      <atom:link href="http://localhost:1313/remote/tags/grid-codes/index.xml" rel="self" type="application/rss+xml" />
+    <title>Grid Codes | Sayed&#39;s Page</title>
+    <link>http://localhost:1313/working/tags/grid-codes/</link>
+      <atom:link href="http://localhost:1313/working/tags/grid-codes/index.xml" rel="self" type="application/rss+xml" />
     <description>Grid Codes</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Sep 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/remote/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/working/media/icon_hu7729264130191091259.png</url>
       <title>Grid Codes</title>
-      <link>http://localhost:1313/remote/tags/grid-codes/</link>
+      <link>http://localhost:1313/working/tags/grid-codes/</link>
     </image>
     
     <item>
       <title>Challenges of existing grid codes and the call for enhanced standards</title>
-      <link>http://localhost:1313/remote/publication/murdan-2023-c/</link>
+      <link>http://localhost:1313/working/publication/murdan-2023-c/</link>
       <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/remote/publication/murdan-2023-c/</guid>
+      <guid>http://localhost:1313/working/publication/murdan-2023-c/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>

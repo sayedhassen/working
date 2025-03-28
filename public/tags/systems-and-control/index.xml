@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Systems and Control | Sayed Hassen Page</title>
-    <link>http://localhost:1313/remote/tags/systems-and-control/</link>
-      <atom:link href="http://localhost:1313/remote/tags/systems-and-control/index.xml" rel="self" type="application/rss+xml" />
+    <title>Systems and Control | Sayed&#39;s Page</title>
+    <link>http://localhost:1313/working/tags/systems-and-control/</link>
+      <atom:link href="http://localhost:1313/working/tags/systems-and-control/index.xml" rel="self" type="application/rss+xml" />
     <description>Systems and Control</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 30 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/remote/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/working/media/icon_hu7729264130191091259.png</url>
       <title>Systems and Control</title>
-      <link>http://localhost:1313/remote/tags/systems-and-control/</link>
+      <link>http://localhost:1313/working/tags/systems-and-control/</link>
     </image>
     
     <item>
       <title>Control Systems Engineering</title>
-      <link>http://localhost:1313/remote/teaching/control/</link>
+      <link>http://localhost:1313/working/teaching/control/</link>
       <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/remote/teaching/control/</guid>
+      <guid>http://localhost:1313/working/teaching/control/</guid>
       <description>&lt;hr&gt;
 &lt;h3 id=&#34;optimisation-problem&#34;&gt;Optimisation Problem&lt;/h3&gt;
 

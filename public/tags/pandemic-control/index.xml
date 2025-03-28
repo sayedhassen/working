@@ -1,49 +1,49 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pandemic Control | Sayed Hassen Page</title>
-    <link>http://localhost:1313/remote/tags/pandemic-control/</link>
-      <atom:link href="http://localhost:1313/remote/tags/pandemic-control/index.xml" rel="self" type="application/rss+xml" />
+    <title>Pandemic Control | Sayed&#39;s Page</title>
+    <link>http://localhost:1313/working/tags/pandemic-control/</link>
+      <atom:link href="http://localhost:1313/working/tags/pandemic-control/index.xml" rel="self" type="application/rss+xml" />
     <description>Pandemic Control</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 30 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/remote/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/working/media/icon_hu7729264130191091259.png</url>
       <title>Pandemic Control</title>
-      <link>http://localhost:1313/remote/tags/pandemic-control/</link>
+      <link>http://localhost:1313/working/tags/pandemic-control/</link>
     </image>
     
     <item>
       <title>Mathematical Modeling and Control of Epidemics</title>
-      <link>http://localhost:1313/remote/research/covid/</link>
+      <link>http://localhost:1313/working/research/covid/</link>
       <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/remote/research/covid/</guid>
+      <guid>http://localhost:1313/working/research/covid/</guid>
       <description>&lt;p&gt;Modeled the COVID-19 pandemic using nonlinear differential equations with a view to better control a potential breakout of a new  variant of COVID or any other virus. In particular,  data for the case of          Mauritius has been used to propose a Model Predictive Control approach to          mitigate its impact. There is room for further work using data-driven              control approach. Please reach out if interested to collaborate/undertake          further studies in the area.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>A Mathematical Characterisation of COVID-19 in Mauritius</title>
-      <link>http://localhost:1313/remote/publication/sayed-hassen-23-b/</link>
+      <link>http://localhost:1313/working/publication/sayed-hassen-23-b/</link>
       <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/remote/publication/sayed-hassen-23-b/</guid>
+      <guid>http://localhost:1313/working/publication/sayed-hassen-23-b/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>An analysis of COVID-19 and its spread in relation to population density</title>
-      <link>http://localhost:1313/remote/publication/sayed-hassen-21-b/</link>
+      <link>http://localhost:1313/working/publication/sayed-hassen-21-b/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/remote/publication/sayed-hassen-21-b/</guid>
+      <guid>http://localhost:1313/working/publication/sayed-hassen-21-b/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>COVID-19 and its spread in relation to ambient temperature</title>
-      <link>http://localhost:1313/remote/publication/sayed-hassen-21-a/</link>
+      <link>http://localhost:1313/working/publication/sayed-hassen-21-a/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/remote/publication/sayed-hassen-21-a/</guid>
+      <guid>http://localhost:1313/working/publication/sayed-hassen-21-a/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>

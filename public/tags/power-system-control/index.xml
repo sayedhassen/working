@@ -1,94 +1,94 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Power System Control | Sayed Hassen Page</title>
-    <link>http://localhost:1313/remote/tags/power-system-control/</link>
-      <atom:link href="http://localhost:1313/remote/tags/power-system-control/index.xml" rel="self" type="application/rss+xml" />
+    <title>Power System Control | Sayed&#39;s Page</title>
+    <link>http://localhost:1313/working/tags/power-system-control/</link>
+      <atom:link href="http://localhost:1313/working/tags/power-system-control/index.xml" rel="self" type="application/rss+xml" />
     <description>Power System Control</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jun 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/remote/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/working/media/icon_hu7729264130191091259.png</url>
       <title>Power System Control</title>
-      <link>http://localhost:1313/remote/tags/power-system-control/</link>
+      <link>http://localhost:1313/working/tags/power-system-control/</link>
     </image>
     
     <item>
       <title>Simulation of the Rotor Side Vector Control of DFIG under different wind speed</title>
-      <link>http://localhost:1313/remote/publication/murdan-2023-b/</link>
+      <link>http://localhost:1313/working/publication/murdan-2023-b/</link>
       <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/remote/publication/murdan-2023-b/</guid>
+      <guid>http://localhost:1313/working/publication/murdan-2023-b/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Bandwidth oriented approach for the design of a PI controller for a three phase two-stage grid-connected PV system</title>
-      <link>http://localhost:1313/remote/publication/murdan-2023-a/</link>
+      <link>http://localhost:1313/working/publication/murdan-2023-a/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/remote/publication/murdan-2023-a/</guid>
+      <guid>http://localhost:1313/working/publication/murdan-2023-a/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Modeling and simulation of a STATCOM for reactive power control</title>
-      <link>http://localhost:1313/remote/publication/murdan-22/</link>
+      <link>http://localhost:1313/working/publication/murdan-22/</link>
       <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/remote/publication/murdan-22/</guid>
+      <guid>http://localhost:1313/working/publication/murdan-22/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>A performance evaluation of fuzzy logic controllers for load frequency control in a single area network</title>
-      <link>http://localhost:1313/remote/publication/murdan-19/</link>
+      <link>http://localhost:1313/working/publication/murdan-19/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/remote/publication/murdan-19/</guid>
+      <guid>http://localhost:1313/working/publication/murdan-19/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Intelligent Controllers for Load Frequency Control of Two-area Power System</title>
-      <link>http://localhost:1313/remote/publication/azeer-17/</link>
+      <link>http://localhost:1313/working/publication/azeer-17/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/remote/publication/azeer-17/</guid>
+      <guid>http://localhost:1313/working/publication/azeer-17/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Load Frequency control of a Nonlinear Two-Area Power System</title>
-      <link>http://localhost:1313/remote/publication/ramjug-15/</link>
+      <link>http://localhost:1313/working/publication/ramjug-15/</link>
       <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/remote/publication/ramjug-15/</guid>
+      <guid>http://localhost:1313/working/publication/ramjug-15/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Optimal Frequency Regulation of a Two-area power system</title>
-      <link>http://localhost:1313/remote/publication/sayed-hassen-13/</link>
+      <link>http://localhost:1313/working/publication/sayed-hassen-13/</link>
       <pubDate>Fri, 01 Feb 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/remote/publication/sayed-hassen-13/</guid>
+      <guid>http://localhost:1313/working/publication/sayed-hassen-13/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Optimal frequency regulation of a single-area power system</title>
-      <link>http://localhost:1313/remote/publication/sayed-hassen-12/</link>
+      <link>http://localhost:1313/working/publication/sayed-hassen-12/</link>
       <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/remote/publication/sayed-hassen-12/</guid>
+      <guid>http://localhost:1313/working/publication/sayed-hassen-12/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>A robust approach to the load frequency control problem with speed regulation uncertainty</title>
-      <link>http://localhost:1313/remote/publication/sayed-hassen-12-a/</link>
+      <link>http://localhost:1313/working/publication/sayed-hassen-12-a/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/remote/publication/sayed-hassen-12-a/</guid>
+      <guid>http://localhost:1313/working/publication/sayed-hassen-12-a/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>

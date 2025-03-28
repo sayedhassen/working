@@ -1,265 +1,265 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Papers | Sayed Hassen Page</title>
-    <link>http://localhost:1313/remote/publication/</link>
-      <atom:link href="http://localhost:1313/remote/publication/index.xml" rel="self" type="application/rss+xml" />
+    <title>Papers | Sayed&#39;s Page</title>
+    <link>http://localhost:1313/working/publication/</link>
+      <atom:link href="http://localhost:1313/working/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Papers</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jun 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/remote/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/working/media/icon_hu7729264130191091259.png</url>
       <title>Papers</title>
-      <link>http://localhost:1313/remote/publication/</link>
+      <link>http://localhost:1313/working/publication/</link>
     </image>
     
     <item>
       <title>A Data-Driven Model Predictive Controller to manage epidemics: The case of SARS-CoV-2 in Mauritius</title>
-      <link>http://localhost:1313/remote/publication/sayed-hassen-25-a/</link>
+      <link>http://localhost:1313/working/publication/sayed-hassen-25-a/</link>
       <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/remote/publication/sayed-hassen-25-a/</guid>
+      <guid>http://localhost:1313/working/publication/sayed-hassen-25-a/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Real-time Model Predictive Control of Air Conditioners through IoT—Results From an Experimental Setup in a Tropical Climate</title>
-      <link>http://localhost:1313/remote/publication/shamachurn-2024-c/</link>
+      <link>http://localhost:1313/working/publication/shamachurn-2024-c/</link>
       <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/remote/publication/shamachurn-2024-c/</guid>
+      <guid>http://localhost:1313/working/publication/shamachurn-2024-c/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Optimizing PID controllers in Multisource Power Systems through Evolutionary Algorithms</title>
-      <link>http://localhost:1313/remote/publication/murdan-2024-b/</link>
+      <link>http://localhost:1313/working/publication/murdan-2024-b/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/remote/publication/murdan-2024-b/</guid>
+      <guid>http://localhost:1313/working/publication/murdan-2024-b/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Challenges of existing grid codes and the call for enhanced standards</title>
-      <link>http://localhost:1313/remote/publication/murdan-2023-c/</link>
+      <link>http://localhost:1313/working/publication/murdan-2023-c/</link>
       <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/remote/publication/murdan-2023-c/</guid>
+      <guid>http://localhost:1313/working/publication/murdan-2023-c/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>A Mathematical Characterisation of COVID-19 in Mauritius</title>
-      <link>http://localhost:1313/remote/publication/sayed-hassen-23-b/</link>
+      <link>http://localhost:1313/working/publication/sayed-hassen-23-b/</link>
       <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/remote/publication/sayed-hassen-23-b/</guid>
+      <guid>http://localhost:1313/working/publication/sayed-hassen-23-b/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Simulation of the Rotor Side Vector Control of DFIG under different wind speed</title>
-      <link>http://localhost:1313/remote/publication/murdan-2023-b/</link>
+      <link>http://localhost:1313/working/publication/murdan-2023-b/</link>
       <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/remote/publication/murdan-2023-b/</guid>
+      <guid>http://localhost:1313/working/publication/murdan-2023-b/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Bandwidth oriented approach for the design of a PI controller for a three phase two-stage grid-connected PV system</title>
-      <link>http://localhost:1313/remote/publication/murdan-2023-a/</link>
+      <link>http://localhost:1313/working/publication/murdan-2023-a/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/remote/publication/murdan-2023-a/</guid>
+      <guid>http://localhost:1313/working/publication/murdan-2023-a/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Development of control-oriented models for a building under regular heating, ventilation and air-conditioning operation -- A comparative simulation study and an experimental validation</title>
-      <link>http://localhost:1313/remote/publication/sayed-hassen-23-a/</link>
+      <link>http://localhost:1313/working/publication/sayed-hassen-23-a/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/remote/publication/sayed-hassen-23-a/</guid>
+      <guid>http://localhost:1313/working/publication/sayed-hassen-23-a/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>A comparative analysis of Maximum Power Point Tracking (MPPT) Techniques of a Solar Panel</title>
-      <link>http://localhost:1313/remote/publication/gajadur-22/</link>
+      <link>http://localhost:1313/working/publication/gajadur-22/</link>
       <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/remote/publication/gajadur-22/</guid>
+      <guid>http://localhost:1313/working/publication/gajadur-22/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Modeling and simulation of a STATCOM for reactive power control</title>
-      <link>http://localhost:1313/remote/publication/murdan-22/</link>
+      <link>http://localhost:1313/working/publication/murdan-22/</link>
       <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/remote/publication/murdan-22/</guid>
+      <guid>http://localhost:1313/working/publication/murdan-22/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Experimental validation of three nonlinear MPP solar tracking techniques</title>
-      <link>http://localhost:1313/remote/publication/gajadur-21/</link>
+      <link>http://localhost:1313/working/publication/gajadur-21/</link>
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/remote/publication/gajadur-21/</guid>
+      <guid>http://localhost:1313/working/publication/gajadur-21/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>A Framework for AI-Based Building Controls to Adapt Passive Measures for Optimum Thermal Comfort and Energy Efficiency in Tropical Climates</title>
-      <link>http://localhost:1313/remote/publication/gooroochurn-22/</link>
+      <link>http://localhost:1313/working/publication/gooroochurn-22/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/remote/publication/gooroochurn-22/</guid>
+      <guid>http://localhost:1313/working/publication/gooroochurn-22/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>An analysis of COVID-19 and its spread in relation to population density</title>
-      <link>http://localhost:1313/remote/publication/sayed-hassen-21-b/</link>
+      <link>http://localhost:1313/working/publication/sayed-hassen-21-b/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/remote/publication/sayed-hassen-21-b/</guid>
+      <guid>http://localhost:1313/working/publication/sayed-hassen-21-b/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>COVID-19 and its spread in relation to ambient temperature</title>
-      <link>http://localhost:1313/remote/publication/sayed-hassen-21-a/</link>
+      <link>http://localhost:1313/working/publication/sayed-hassen-21-a/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/remote/publication/sayed-hassen-21-a/</guid>
+      <guid>http://localhost:1313/working/publication/sayed-hassen-21-a/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>A comparison between optimization and filtering techniques for RC Thermal model identification</title>
-      <link>http://localhost:1313/remote/publication/shamachurn-20-a/</link>
+      <link>http://localhost:1313/working/publication/shamachurn-20-a/</link>
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/remote/publication/shamachurn-20-a/</guid>
+      <guid>http://localhost:1313/working/publication/shamachurn-20-a/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Modeling, control and simulation of a Wave Energy Converter</title>
-      <link>http://localhost:1313/remote/publication/sayed-hassen-20/</link>
+      <link>http://localhost:1313/working/publication/sayed-hassen-20/</link>
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/remote/publication/sayed-hassen-20/</guid>
+      <guid>http://localhost:1313/working/publication/sayed-hassen-20/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Solar tracking for optimum energy generation using Extremum Seeking Control</title>
-      <link>http://localhost:1313/remote/publication/gobin-20/</link>
+      <link>http://localhost:1313/working/publication/gobin-20/</link>
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/remote/publication/gobin-20/</guid>
+      <guid>http://localhost:1313/working/publication/gobin-20/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Thermal model and disturbance co-identification using optimization and filtering techniques</title>
-      <link>http://localhost:1313/remote/publication/shamachurn-20/</link>
+      <link>http://localhost:1313/working/publication/shamachurn-20/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/remote/publication/shamachurn-20/</guid>
+      <guid>http://localhost:1313/working/publication/shamachurn-20/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>A multi-objective framework for long-term generation expansion planning with variable renewables</title>
-      <link>http://localhost:1313/remote/publication/sayed-hassen-19/</link>
+      <link>http://localhost:1313/working/publication/sayed-hassen-19/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/remote/publication/sayed-hassen-19/</guid>
+      <guid>http://localhost:1313/working/publication/sayed-hassen-19/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>A performance evaluation of fuzzy logic controllers for load frequency control in a single area network</title>
-      <link>http://localhost:1313/remote/publication/murdan-19/</link>
+      <link>http://localhost:1313/working/publication/murdan-19/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/remote/publication/murdan-19/</guid>
+      <guid>http://localhost:1313/working/publication/murdan-19/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>A comparative study of different solar power tracking control techniques</title>
-      <link>http://localhost:1313/remote/publication/mooraby-18/</link>
+      <link>http://localhost:1313/working/publication/mooraby-18/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/remote/publication/mooraby-18/</guid>
+      <guid>http://localhost:1313/working/publication/mooraby-18/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Intelligent Controllers for Load Frequency Control of Two-area Power System</title>
-      <link>http://localhost:1313/remote/publication/azeer-17/</link>
+      <link>http://localhost:1313/working/publication/azeer-17/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/remote/publication/azeer-17/</guid>
+      <guid>http://localhost:1313/working/publication/azeer-17/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Generation expansion planning optimisation with renewable energy integration: A review</title>
-      <link>http://localhost:1313/remote/publication/sayed-hassen-17/</link>
+      <link>http://localhost:1313/working/publication/sayed-hassen-17/</link>
       <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/remote/publication/sayed-hassen-17/</guid>
+      <guid>http://localhost:1313/working/publication/sayed-hassen-17/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>A power flow control scheme for photovoltaic to a low voltage microgrid system</title>
-      <link>http://localhost:1313/remote/publication/sayed-hassen-16-b/</link>
+      <link>http://localhost:1313/working/publication/sayed-hassen-16-b/</link>
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/remote/publication/sayed-hassen-16-b/</guid>
+      <guid>http://localhost:1313/working/publication/sayed-hassen-16-b/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>A composite metric for assessing flexibility available in conventional generators of power systems</title>
-      <link>http://localhost:1313/remote/publication/sayed-hassen-16-a/</link>
+      <link>http://localhost:1313/working/publication/sayed-hassen-16-a/</link>
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/remote/publication/sayed-hassen-16-a/</guid>
+      <guid>http://localhost:1313/working/publication/sayed-hassen-16-a/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Experimental demonstration of frequency autolocking an optical cavity using a time-varying Kalman filter</title>
-      <link>http://localhost:1313/remote/publication/sayed-hassen-16/</link>
+      <link>http://localhost:1313/working/publication/sayed-hassen-16/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/remote/publication/sayed-hassen-16/</guid>
+      <guid>http://localhost:1313/working/publication/sayed-hassen-16/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Load Frequency control of a Nonlinear Two-Area Power System</title>
-      <link>http://localhost:1313/remote/publication/ramjug-15/</link>
+      <link>http://localhost:1313/working/publication/ramjug-15/</link>
       <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/remote/publication/ramjug-15/</guid>
+      <guid>http://localhost:1313/working/publication/ramjug-15/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>An example journal article</title>
-      <link>http://localhost:1313/remote/publication/journal-article/</link>
+      <link>http://localhost:1313/working/publication/journal-article/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/remote/publication/journal-article/</guid>
+      <guid>http://localhost:1313/working/publication/journal-article/</guid>
       <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
 &lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
   &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
@@ -278,216 +278,216 @@
     
     <item>
       <title>Design and implementation of an optical cavity locking controller test bed system</title>
-      <link>http://localhost:1313/remote/publication/kallapur-15/</link>
+      <link>http://localhost:1313/working/publication/kallapur-15/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/remote/publication/kallapur-15/</guid>
+      <guid>http://localhost:1313/working/publication/kallapur-15/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Modelling, analysis and simulation of an optical squeezer</title>
-      <link>http://localhost:1313/remote/publication/sayed-hassen-15/</link>
+      <link>http://localhost:1313/working/publication/sayed-hassen-15/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/remote/publication/sayed-hassen-15/</guid>
+      <guid>http://localhost:1313/working/publication/sayed-hassen-15/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Extremum seeking control of an optical cavity</title>
-      <link>http://localhost:1313/remote/publication/sayed-hassen-14/</link>
+      <link>http://localhost:1313/working/publication/sayed-hassen-14/</link>
       <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/remote/publication/sayed-hassen-14/</guid>
+      <guid>http://localhost:1313/working/publication/sayed-hassen-14/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Frequency locking of an optical cavity using a time-varying Kalman filtering approach</title>
-      <link>http://localhost:1313/remote/publication/sayed-hassen-13-a/</link>
+      <link>http://localhost:1313/working/publication/sayed-hassen-13-a/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/remote/publication/sayed-hassen-13-a/</guid>
+      <guid>http://localhost:1313/working/publication/sayed-hassen-13-a/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Optimal Frequency Regulation of a Two-area power system</title>
-      <link>http://localhost:1313/remote/publication/sayed-hassen-13/</link>
+      <link>http://localhost:1313/working/publication/sayed-hassen-13/</link>
       <pubDate>Fri, 01 Feb 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/remote/publication/sayed-hassen-13/</guid>
+      <guid>http://localhost:1313/working/publication/sayed-hassen-13/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Digital Locking of a Three-Mirror Ring Cavity</title>
-      <link>http://localhost:1313/remote/publication/kallapur-12/</link>
+      <link>http://localhost:1313/working/publication/kallapur-12/</link>
       <pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/remote/publication/kallapur-12/</guid>
+      <guid>http://localhost:1313/working/publication/kallapur-12/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Optimal frequency regulation of a single-area power system</title>
-      <link>http://localhost:1313/remote/publication/sayed-hassen-12/</link>
+      <link>http://localhost:1313/working/publication/sayed-hassen-12/</link>
       <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/remote/publication/sayed-hassen-12/</guid>
+      <guid>http://localhost:1313/working/publication/sayed-hassen-12/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>A robust approach to the load frequency control problem with speed regulation uncertainty</title>
-      <link>http://localhost:1313/remote/publication/sayed-hassen-12-a/</link>
+      <link>http://localhost:1313/working/publication/sayed-hassen-12-a/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/remote/publication/sayed-hassen-12-a/</guid>
+      <guid>http://localhost:1313/working/publication/sayed-hassen-12-a/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Optimal Squeezing using Multivariable Integral LQG Control</title>
-      <link>http://localhost:1313/remote/publication/sayed-hassen-11/</link>
+      <link>http://localhost:1313/working/publication/sayed-hassen-11/</link>
       <pubDate>Mon, 01 Aug 2011 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/remote/publication/sayed-hassen-11/</guid>
+      <guid>http://localhost:1313/working/publication/sayed-hassen-11/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>A time-varying Kalman filter approach to frequency locking of an optical cavity</title>
-      <link>http://localhost:1313/remote/publication/sayed-hassen-10-c/</link>
+      <link>http://localhost:1313/working/publication/sayed-hassen-10-c/</link>
       <pubDate>Mon, 01 Nov 2010 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/remote/publication/sayed-hassen-10-c/</guid>
+      <guid>http://localhost:1313/working/publication/sayed-hassen-10-c/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Optimal Amplitude Quadrature Control of an Optical Squeezer using an Integral LQG approach</title>
-      <link>http://localhost:1313/remote/publication/sayed-hassen-10-b/</link>
+      <link>http://localhost:1313/working/publication/sayed-hassen-10-b/</link>
       <pubDate>Wed, 01 Sep 2010 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/remote/publication/sayed-hassen-10-b/</guid>
+      <guid>http://localhost:1313/working/publication/sayed-hassen-10-b/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>A time-varying Kalman filter approach to integral LQG frequency locking of an optical cavity</title>
-      <link>http://localhost:1313/remote/publication/sayed-hassen-10-a/</link>
+      <link>http://localhost:1313/working/publication/sayed-hassen-10-a/</link>
       <pubDate>Thu, 01 Jul 2010 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/remote/publication/sayed-hassen-10-a/</guid>
+      <guid>http://localhost:1313/working/publication/sayed-hassen-10-a/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>LQG control of an Optical Squeezer</title>
-      <link>http://localhost:1313/remote/publication/sayed-hassen-10/</link>
+      <link>http://localhost:1313/working/publication/sayed-hassen-10/</link>
       <pubDate>Thu, 01 Jul 2010 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/remote/publication/sayed-hassen-10/</guid>
+      <guid>http://localhost:1313/working/publication/sayed-hassen-10/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Optimal and Robust Feedback Control of Quantum Systems</title>
-      <link>http://localhost:1313/remote/publication/sayed-hassen-10-d/</link>
+      <link>http://localhost:1313/working/publication/sayed-hassen-10-d/</link>
       <pubDate>Thu, 01 Jul 2010 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/remote/publication/sayed-hassen-10-d/</guid>
+      <guid>http://localhost:1313/working/publication/sayed-hassen-10-d/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Frequency Locking of an Optical Cavity using Linear-Quadratic Gaussian Integral Control</title>
-      <link>http://localhost:1313/remote/publication/sayed-hassen-09/</link>
+      <link>http://localhost:1313/working/publication/sayed-hassen-09/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/remote/publication/sayed-hassen-09/</guid>
+      <guid>http://localhost:1313/working/publication/sayed-hassen-09/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Laser Frequency Locking to an Optical Cavity using LQG control</title>
-      <link>http://localhost:1313/remote/publication/heurs-08/</link>
+      <link>http://localhost:1313/working/publication/heurs-08/</link>
       <pubDate>Fri, 01 Aug 2008 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/remote/publication/heurs-08/</guid>
+      <guid>http://localhost:1313/working/publication/heurs-08/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Frequency Locking of an Optical Cavity Using LQG Integral Control</title>
-      <link>http://localhost:1313/remote/publication/sayed-hassen-08/</link>
+      <link>http://localhost:1313/working/publication/sayed-hassen-08/</link>
       <pubDate>Tue, 01 Jul 2008 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/remote/publication/sayed-hassen-08/</guid>
+      <guid>http://localhost:1313/working/publication/sayed-hassen-08/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Frequency Locking of a Fabry-Perot cavity using LQG integral Control</title>
-      <link>http://localhost:1313/remote/publication/sayed-hassen-08-b/</link>
+      <link>http://localhost:1313/working/publication/sayed-hassen-08-b/</link>
       <pubDate>Sun, 01 Jun 2008 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/remote/publication/sayed-hassen-08-b/</guid>
+      <guid>http://localhost:1313/working/publication/sayed-hassen-08-b/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Application of Integral LQG control to the frequency locking of an Optical Laser cavity</title>
-      <link>http://localhost:1313/remote/publication/sayed-hassen-08-a/</link>
+      <link>http://localhost:1313/working/publication/sayed-hassen-08-a/</link>
       <pubDate>Tue, 01 Apr 2008 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/remote/publication/sayed-hassen-08-a/</guid>
+      <guid>http://localhost:1313/working/publication/sayed-hassen-08-a/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Laser-Cavity Frequency Locking using Integral LQG Control</title>
-      <link>http://localhost:1313/remote/publication/sayed-hassen-07/</link>
+      <link>http://localhost:1313/working/publication/sayed-hassen-07/</link>
       <pubDate>Sat, 01 Dec 2007 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/remote/publication/sayed-hassen-07/</guid>
+      <guid>http://localhost:1313/working/publication/sayed-hassen-07/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Trends in the Power Sector in Mauritius</title>
-      <link>http://localhost:1313/remote/publication/sayed-hassen-05-a/</link>
+      <link>http://localhost:1313/working/publication/sayed-hassen-05-a/</link>
       <pubDate>Sun, 01 May 2005 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/remote/publication/sayed-hassen-05-a/</guid>
+      <guid>http://localhost:1313/working/publication/sayed-hassen-05-a/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Polytopic and LFT Approach to Gain-Scheduling: A design example</title>
-      <link>http://localhost:1313/remote/publication/sayed-hassen-05/</link>
+      <link>http://localhost:1313/working/publication/sayed-hassen-05/</link>
       <pubDate>Fri, 01 Apr 2005 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/remote/publication/sayed-hassen-05/</guid>
+      <guid>http://localhost:1313/working/publication/sayed-hassen-05/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Robust and gain-scheduled control using Linear Matrix Inequalities</title>
-      <link>http://localhost:1313/remote/publication/sayed-hassen-01/</link>
+      <link>http://localhost:1313/working/publication/sayed-hassen-01/</link>
       <pubDate>Sun, 01 Apr 2001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/remote/publication/sayed-hassen-01/</guid>
+      <guid>http://localhost:1313/working/publication/sayed-hassen-01/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Modelling systems for control studies - An overview</title>
-      <link>http://localhost:1313/remote/publication/sayed-hassen-00/</link>
+      <link>http://localhost:1313/working/publication/sayed-hassen-00/</link>
       <pubDate>Wed, 01 Mar 2000 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/remote/publication/sayed-hassen-00/</guid>
+      <guid>http://localhost:1313/working/publication/sayed-hassen-00/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
